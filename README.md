@@ -11,3 +11,6 @@ Actualmente, el manejo de datos ha permitido que la interacción computadora-hum
    
    Fuente: https://manuelgross.blogspot.com/2018/11/nuestras-6-emociones-basicas-somos.html
    
+Las aplicaciones del reconocimiento de emociones puede ser utilizadas para conocer mejor la experiencia del usuario en diferentes situaciones. Por ejemplo, puede existir un restaurante o almacen que este interesado en conocer la experiencia de los clientes y tomar decisiones en función de éstas. Se pueden indentificar en tiempo real las emociones de los clientes durante toda su estadía en el lugar y saber qué gustó más o incomodó más al cliente, y así usarlo a su favor. 
+
+![Figura 2]() ![Figura 3]()
