@@ -19,4 +19,4 @@ Fuente: https://www.estrategiapractica.com/analisis-de-la-competencia-restaurant
 
 Otro ejemplo podría se la experencia del usuario a la hora de probar un nuevo producto, por ejemplo un juego. Antes de ser lanzados, varios juegos son probados por varios jugadores. Se podrían conocer en tiempo real las emociones que genera el juego en ellos y qué cosas del juego generan estas emociones. Esto puede ayudar a mejorar el desarrollo de estos para que la experiencia del jugador sea la deseada. 
 
-![Figura 3]()
+![Figura 3](jugadores.jpg)
