@@ -7,7 +7,6 @@ La gran mayoria de estudios realizados en el área del análisis transcultural d
 
 Actualmente, el manejo de datos ha permitido que la interacción computadora-humano se vuelva cada vez más natural, reafirmando la importancia de que la computadra sea capaz de interactuar de forma similar a cómo interactuan los agentes humanos y así  garantizar el procedo de identificar expresiones humanas e inferir su estado emocional.
 
-   ![Figura 1.](six-basic-emotions.jpg)
-   \\
+   ![Figura 1.](six-basic-emotions.jpg)\\
    Fuente: https://manuelgross.blogspot.com/2018/11/nuestras-6-emociones-basicas-somos.html
    
