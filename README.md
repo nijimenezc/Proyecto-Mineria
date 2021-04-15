@@ -1,4 +1,4 @@
-# Análisisd de sentimientos a partir de imágenes
+# Análisis de sentimientos a partir de imágenes
 En este repositorio se encontrara el desarrollo de nuestro proyecto de minería explicado y presentado de manera agradable para los espectadores.
 ## Introducción 
 Las emociones han sido objeto de estudio desde hace mucho tiempo ya que sirven como motivación para nuestro comportamiento y además se ha demostrado que ciertas expresiones faciales parecen ser universales independientemente de la cultura y otras, son biológicamente innatas. Fue a mediados de los 60's que se reunió evidencia suficiente para demostrar la existencia de seis expresiones universales: enojo, disgusto, miedo, felicidad, tristeza y sorpresa. 
