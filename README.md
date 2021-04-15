@@ -14,3 +14,9 @@ Actualmente, el manejo de datos ha permitido que la interacción computadora-hum
 Las aplicaciones del reconocimiento de emociones puede ser utilizadas para conocer mejor la experiencia del usuario en diferentes situaciones. Por ejemplo, puede existir un restaurante o almacen que este interesado en conocer la experiencia de los clientes y tomar decisiones en función de éstas. Se pueden indentificar en tiempo real las emociones de los clientes durante toda su estadía en el lugar y saber qué gustó más o incomodó más al cliente, y así usarlo a su favor. 
 
 ![Figura 2](restaurante.jpg)
+
+Fuente: https://www.estrategiapractica.com/analisis-de-la-competencia-restaurante/
+
+Otro ejemplo podría se la experencia del usuario a la hora de probar un nuevo producto, por ejemplo un juego. Antes de ser lanzados, varios juegos son probados por varios jugadores. Se podrían conocer en tiempo real las emociones que genera el juego en ellos y qué cosas del juego generan estas emociones. Esto puede ayudar a mejorar el desarrollo de estos para que la experiencia del jugador sea la deseada. 
+
+![Figura 3]()
